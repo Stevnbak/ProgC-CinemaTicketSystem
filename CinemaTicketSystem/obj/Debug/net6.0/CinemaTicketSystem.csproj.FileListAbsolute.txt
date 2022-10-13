@@ -1,0 +1,15 @@
+C:\Users\ksaen\OneDrive - TEC\Programmering\CinemaTicketSystem\CinemaTicketSystem\obj\Debug\net6.0\CinemaTicketSystem.csproj.AssemblyReference.cache
+C:\Users\ksaen\OneDrive - TEC\Programmering\CinemaTicketSystem\CinemaTicketSystem\obj\Debug\net6.0\CinemaTicketSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ksaen\OneDrive - TEC\Programmering\CinemaTicketSystem\CinemaTicketSystem\obj\Debug\net6.0\CinemaTicketSystem.AssemblyInfoInputs.cache
+C:\Users\ksaen\OneDrive - TEC\Programmering\CinemaTicketSystem\CinemaTicketSystem\obj\Debug\net6.0\CinemaTicketSystem.AssemblyInfo.cs
+C:\Users\ksaen\OneDrive - TEC\Programmering\CinemaTicketSystem\CinemaTicketSystem\obj\Debug\net6.0\CinemaTicketSystem.csproj.CoreCompileInputs.cache
+C:\Users\ksaen\OneDrive - TEC\Programmering\CinemaTicketSystem\CinemaTicketSystem\bin\Debug\net6.0\CinemaTicketSystem.exe
+C:\Users\ksaen\OneDrive - TEC\Programmering\CinemaTicketSystem\CinemaTicketSystem\bin\Debug\net6.0\CinemaTicketSystem.deps.json
+C:\Users\ksaen\OneDrive - TEC\Programmering\CinemaTicketSystem\CinemaTicketSystem\bin\Debug\net6.0\CinemaTicketSystem.runtimeconfig.json
+C:\Users\ksaen\OneDrive - TEC\Programmering\CinemaTicketSystem\CinemaTicketSystem\bin\Debug\net6.0\CinemaTicketSystem.dll
+C:\Users\ksaen\OneDrive - TEC\Programmering\CinemaTicketSystem\CinemaTicketSystem\bin\Debug\net6.0\CinemaTicketSystem.pdb
+C:\Users\ksaen\OneDrive - TEC\Programmering\CinemaTicketSystem\CinemaTicketSystem\obj\Debug\net6.0\CinemaTicketSystem.dll
+C:\Users\ksaen\OneDrive - TEC\Programmering\CinemaTicketSystem\CinemaTicketSystem\obj\Debug\net6.0\refint\CinemaTicketSystem.dll
+C:\Users\ksaen\OneDrive - TEC\Programmering\CinemaTicketSystem\CinemaTicketSystem\obj\Debug\net6.0\CinemaTicketSystem.pdb
+C:\Users\ksaen\OneDrive - TEC\Programmering\CinemaTicketSystem\CinemaTicketSystem\obj\Debug\net6.0\CinemaTicketSystem.genruntimeconfig.cache
+C:\Users\ksaen\OneDrive - TEC\Programmering\CinemaTicketSystem\CinemaTicketSystem\obj\Debug\net6.0\ref\CinemaTicketSystem.dll
